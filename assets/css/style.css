@@ -5,6 +5,7 @@
   background-size: cover; background-position: center center; background-repeat: no-repeat; background-attachment: fixed;
    
 } */
+
 * {box-sizing: border-box;}
 .mySlides {display: none;}
 /* img {vertical-align: middle;} */
@@ -85,14 +86,14 @@ No media query for `xs` since this is the default in Bootstrap */
 object-position: 51%;
 } 
 }
-
+/* 
 @media (max-width: 576px) { .img-two
 
 {
 
  } 
 
-}
+} */
 
 @media (max-width: 576px) { .img-three
   
