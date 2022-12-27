@@ -1,6 +1,6 @@
 # WIRD Website
 
-#### Websites to note
+#### Developers Reference for images
 
 1. https://uploadcare.com/blog/how-to-crop-an-image-in-css/
 
