@@ -1,3 +1,4 @@
+// For the pics/slide
 let slideIndex = 0;
 showSlides();
 
@@ -19,3 +20,6 @@ function showSlides() {
     dots[slideIndex - 1].className += " active";
     setTimeout(showSlides, 5000); // Change image every 2 seconds
 }
+
+// Footer
+document.getElementById("current-year").innerHTML = new Date().getFullYear();
